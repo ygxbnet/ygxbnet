@@ -1,4 +1,6 @@
-### Hello!	I`m YGXB_net 👋
+### Hello! 👋	
+
+**I`m YGXB_net (YGXB-net)**
 
 - 🌱I’m learning: Golang
 - 📫E-mail: me@ygxb.net
