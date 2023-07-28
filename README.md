@@ -4,13 +4,10 @@
 
 ### 🌱 I’m learning: 
 
-- **Golang**
-
+- **Golang** (Use [GoLand](https://www.jetbrains.com/go/))
+- **ESP32-S3** (Use [PlatformIO](https://platformio.org/) && [CLion](https://www.jetbrains.com/clion/))
+- **Flutter** (Use [Android Studio](https://developer.android.com/studio))
 - **Rust**
-
-- **Flutter**
-
-- **ESP32-S3**
 
 ### 📫 E-mail: 
 
