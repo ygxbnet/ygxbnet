@@ -1,6 +1,4 @@
-# Hi there 👋
-
-## **I`m YGXB_net ( ygxbnet )**
+## I`m YGXB_net ( @ygxbnet )
 
 ### 🌱 I’m learning: 
 
