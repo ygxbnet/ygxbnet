@@ -4,13 +4,13 @@
 
 ### 🌱 I’m learning: 
 
-- Golang
+- **Golang**
 
-- Rust
+- **Rust**
 
-- Flutter
+- **Flutter**
 
-- ESP32-S3
+- **ESP32-S3**
 
 ### 📫 E-mail: 
 
