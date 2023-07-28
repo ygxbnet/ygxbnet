@@ -1,8 +1,8 @@
 # Hi there 👋
 
-> **I`m YGXB_net ( ygxbnet )**
+## **I`m YGXB_net ( ygxbnet )**
 
-## 🌱 I’m learning: 
+### 🌱 I’m learning: 
 
 - Golang
 
@@ -12,11 +12,11 @@
 
 - ESP32-S3
 
-## 📫 E-mail: 
+### 📫 E-mail: 
 
 - me@ygxb.net
 
-## 💬 QQ: 
+### 💬 QQ: 
 
 - 3040809965
 
