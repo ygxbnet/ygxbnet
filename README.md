@@ -7,7 +7,7 @@
 - **Flutter** ( Use [Android Studio](https://developer.android.com/studio) )
 - **Rust**
 
-### 📫 E-mail: me@ygxb.net
+### 📫 E-mail: hi@ygxb.net
 
 ### 💬 QQ: 3040809965
 
